@@ -14,8 +14,10 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "bootstrap": "^4.5.0",
+    "chrome": "^0.1.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9",
+    "set-default-browser": "^1.1.1"
   }
 }
